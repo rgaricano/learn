@@ -30,11 +30,6 @@ class SPAStaticFiles(StaticFiles):
 app.mount("/api/v1", v1_app)
 
 
-@app.get("/")
-def status():
-    return {"status": True}
-
-
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 app.mount("/cache", StaticFiles(directory=CACHE_DIR), name="cache")
 
