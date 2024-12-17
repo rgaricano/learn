@@ -1,38 +1,36 @@
-# sv
+# Learn 🧠 
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+**Learn** is an AI-native, self-hostable tool designed to make learning limitless, scalable, and accessible for anyone—anytime, anywhere.
 
-## Creating a project
+## Vision  
 
-If you're seeing this, you've probably already done this step. Congrats!
+Learning should be limitless and self-sufficient. Whether you're preparing for exams, mastering a new language, or traveling to Mars, the tools we use to learn must support curiosity without barriers.  
 
-```bash
-# create a new project in the current directory
-npx sv create
+Our vision is to create a self-reliant learning assistant that helps users generate, organize, and retain knowledge effortlessly, allowing anyone, anywhere to learn *anything*.  
 
-# create a new project in my-app
-npx sv create my-app
-```
+## Problem Statement   
 
-## Developing
+Existing learning tools and workflows are disjointed, making it difficult to create and manage personalized study content. Current solutions require users to jump between platforms for reading, note-taking, flashcard generation, and spaced repetition. This fragmentation creates unnecessary friction and wasted time, ultimately slowing down the learning process.  
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+But now, with local AI, you can generate tailored, virtually limitless study content—all while keeping everything private and self-hosted.  
 
-```bash
-npm run dev
+**Learn** is designed with:
+- Language learning in mind (but works just as well for other subjects),  
+- On-the-fly flashcard creation: click a word or sentence, and it's instantly saved to your deck,  
+- A mission to empower learning enthusiasts to dive deeper into *whatever* they wish to master.  
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
 
-## Building
+## Why Are We Building This? 🌌  
 
-To create a production version of your app:
+As we venture into a future where connectivity isn’t guaranteed (think extended space travel or offline educational settings), self-contained, adaptable tools will be essential. Learning doesn’t stop when the internet is gone—it shouldn’t have to.  
 
-```bash
-npm run build
-```
+We're on a mission to create a scalable, autonomous learning tool designed for humans at the edge of possibility—whether that’s on Earth, Mars, or in orbit for months. With `Learn`, you’ll have everything you need to explore and master knowledge in isolation, distraction-free.  
 
-You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+### Contribute 🚀  
+
+Want to help? We welcome discussions, ideas, and contributions to improve **Learn**. File issues or submit a pull request to join us on this mission.  
+
+### License  
+
+This project is licensed under the [TIM License](./LICENSE).  
